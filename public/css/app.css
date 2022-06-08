@@ -1,0 +1,15 @@
+.notificacion{
+ list-style: none;
+ text-decoration: none;
+ color:#ff8f5e;
+ padding:0;
+ font-size: 1em;
+ margin:0;
+}
+
+.fondo{
+	background-image: url('../img/background-2.jpg');
+	background-repeat: no-repeat;
+/*	background-size: 100%;
+	height: auto;*/
+}
